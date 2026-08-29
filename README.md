@@ -1,4 +1,4 @@
-## Hi, I'm Dev 👋
+## Hi, I'm Daniel 👋
 
 ### 🛠️ Languages and Frameworks
 <p align="left">
